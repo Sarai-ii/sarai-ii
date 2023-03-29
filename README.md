@@ -4,7 +4,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Sarai Thomas</h1>
-<h3 align="center">A creative Full-Stack Web Developer from New York City w/ a 💙 for fashion and the arts, with A degree in Business & Marketing. Petitioning to develop apps and websites that reflect my professional niche.</h3>
+<h3 align="center">A creative Full-Stack Web Developer from New York City w/ a 💙 for fashion and the arts, with a degree in Business & Marketing. I'm petitioning to develop apps and websites that reflect my professional niche and push my capabilities as a beginner developer.</h3>
 
 - 🔭 I’m currently working on [developing a pet adoption site](https://github.com/Sarai-ii/blue-flower-sap)
 
