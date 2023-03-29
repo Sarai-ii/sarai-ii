@@ -1,9 +1,9 @@
-# SARAI THOMAS
+<h1 align="center"> 🦋 SARAI THOMAS 🦋 </h1>
 <!-- ![image](F962C67E-C63C-4606-BA17-E96F092F8193.JPG) -->
-<img src="F962C67E-C63C-4606-BA17-E96F092F8193.JPG" height="160" width="100" >
+<img src="F962C67E-C63C-4606-BA17-E96F092F8193.JPG" height="300" width="200" >
 
 
-<h1 align="center">Hi 👋, I'm Sarai Thomas</h1>
+<h3 align="center">Hi 👋, I'm Sarai Thomas</h3>
 <h3 align="center">A creative Full-Stack Web Developer from New York City w/ a 💙 for fashion and the arts, with a degree in Business & Marketing. I'm petitioning to develop apps and websites that reflect my professional niche and push my capabilities as a beginner developer.</h3>
 
 - 🔭 I’m currently working on [developing a pet adoption site](https://github.com/Sarai-ii/blue-flower-sap)
@@ -14,7 +14,7 @@
 
 - 🤝🏾 I’m looking to collaborate on **a mobile app that generates outfit ideas based on a personality quiz and a shopping site that takes financial api**
 
-- 👨‍💻 All of my projects are available at [**Here**]([github.com/sarai-ii](https://github.com/Sarai-ii?tab=repositories))
+- 👨‍💻 All of my projects are available at [**Here**](https://github.com/Sarai-ii?tab=repositories)
 
 - I just finished creating a Weather App ("My first interactive website with API") [**Weather Site**](https://sarai-ii.github.io/project-weather-app/)
 
