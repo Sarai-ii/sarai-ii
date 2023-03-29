@@ -1,6 +1,6 @@
 # SARAI THOMAS
 ![image](F962C67E-C63C-4606-BA17-E96F092F8193.JPG)
-<img src="http://url/image.png" height="60" width="60" >
+<img src="F962C67E-C63C-4606-BA17-E96F092F8193.JPG" height="60" width="60" >
 
 
 <h1 align="center">Hi 👋, I'm Sarai Thomas</h1>
