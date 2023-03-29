@@ -1,24 +1,28 @@
-<h1 align="center"> 🦋 SARAI THOMAS 🦋 </h1>
-<!-- ![image](F962C67E-C63C-4606-BA17-E96F092F8193.JPG) -->
-<img src="F962C67E-C63C-4606-BA17-E96F092F8193.JPG" height="500" width="200" >
-
-
-<h3 align="center">Hi 👋, I'm Sarai Thomas</h3>
+<pre>
+<img align="left" src="PROFESSIONAL-BANNER.jpg" height="200" width="2000"> 
+</pre> 
+<br><h1 align="center"> 🦋 SARAI THOMAS 🦋 </h1>
+<br>
+<h3 dsipaly="Center"align="center">Hi 👋, I'm Sarai Thomas</h3>
 <h3 align="center">A creative Full-Stack Web Developer from New York City w/ a 💙 for fashion and the arts, with a degree in Business & Marketing. I'm petitioning to develop apps and websites that reflect my professional niche and push my capabilities as a beginner developer.</h3>
 
-- 🔭 I’m currently working on [developing a pet adoption site](https://github.com/Sarai-ii/blue-flower-sap)
+<img align="right" src="https://cdn.dribbble.com/users/252024/screenshots/2967356/ladytypingloop.gif" height="300" width="300"> 
 
--    Also, I'm currently working on **A portfolio project**
+
+  💻 **Currently working on**
+
+- [**Pet Adoption Site**](https://github.com/Sarai-ii/blue-flower-sap)
+
+- [**Trivia Blitz**](https://sarai-ii.github.io/trivia-blitz/)
+<br>
 
 - ✍🏽 I’m currently learning **React, Javascript, HTML/CSS**
-
-- 🤝🏾 I’m looking to collaborate on ** A mobile app that generates outfit ideas and a shopping site that takes financial api**
 
 - 👨‍💻 All of my projects are available at [**Here**](https://github.com/Sarai-ii?tab=repositories)
 
 - I just finished creating a Weather Site ("My first interactive website with API") [**Weather Site**](https://sarai-ii.github.io/project-weather-app/)
 
-<h3 align="center">**Collaborations or Employement ⬇️**</h3>
+<h3 align="center">I'm Looking For Collaborations or Employement ⬇️</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
