@@ -1,6 +1,6 @@
 <h1 align="center"> 🦋 SARAI THOMAS 🦋 </h1>
 <!-- ![image](F962C67E-C63C-4606-BA17-E96F092F8193.JPG) -->
-<img src="F962C67E-C63C-4606-BA17-E96F092F8193.JPG" height="300" width="200" >
+<img src="F962C67E-C63C-4606-BA17-E96F092F8193.JPG" height="500" width="200" >
 
 
 <h3 align="center">Hi 👋, I'm Sarai Thomas</h3>
@@ -8,15 +8,15 @@
 
 - 🔭 I’m currently working on [developing a pet adoption site](https://github.com/Sarai-ii/blue-flower-sap)
 
--    Also, **creating a portfolio project**
+-    Also, I'm currently working on **A portfolio project**
 
 - ✍🏽 I’m currently learning **React, Javascript, HTML/CSS**
 
-- 🤝🏾 I’m looking to collaborate on **a mobile app that generates outfit ideas based on a personality quiz and a shopping site that takes financial api**
+- 🤝🏾 I’m looking to collaborate on ** A mobile app that generates outfit ideas and a shopping site that takes financial api**
 
 - 👨‍💻 All of my projects are available at [**Here**](https://github.com/Sarai-ii?tab=repositories)
 
-- I just finished creating a Weather App ("My first interactive website with API") [**Weather Site**](https://sarai-ii.github.io/project-weather-app/)
+- I just finished creating a Weather Site ("My first interactive website with API") [**Weather Site**](https://sarai-ii.github.io/project-weather-app/)
 
 <h3 align="center">**Collaborations or Employement ⬇️**</h3>
 
