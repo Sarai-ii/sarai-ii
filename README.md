@@ -1,5 +1,7 @@
-#SARAI THOMAS
+# SARAI THOMAS
 ![image](F962C67E-C63C-4606-BA17-E96F092F8193.JPG)
+<img src="http://url/image.png" height="60" width="60" >
+
 
 <h1 align="center">Hi 👋, I'm Sarai Thomas</h1>
 <h3 align="center">Creative Full-Stack Web Developer from New York City w/ a Love for Fashion</h3>
