@@ -14,7 +14,7 @@
 
 - 🤝🏾 I’m looking to collaborate on **a mobile app that generates outfit ideas based on a personality quiz and a shopping site that takes financial api**
 
-- 👨‍💻 All of my projects are available at [**Here**](github.com/sarai-ii)
+- 👨‍💻 All of my projects are available at [**Here**]([github.com/sarai-ii](https://github.com/Sarai-ii?tab=repositories))
 
 - I just finished creating a Weather App ("My first interactive website with API") [**Weather Site**](https://sarai-ii.github.io/project-weather-app/)
 
