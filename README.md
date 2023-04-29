@@ -14,6 +14,9 @@
 - [**Pet Adoption Site**](https://github.com/Sarai-ii/blue-flower-sap)
 
 - [**Trivia Blitz**](https://sarai-ii.github.io/trivia-blitz/)
+
+  💻 **Recently Deployed**
+- [**Delicious🍽**](https://sarai-ii.github.io/Portfolio-Project/))
 <br>
 
 - ✍🏽 I’m currently learning **React, Javascript, HTML/CSS**
