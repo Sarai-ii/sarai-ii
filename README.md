@@ -25,7 +25,7 @@
 
 - I just finished creating a Weather Site ("My first interactive website with API") [**Weather Site**](https://sarai-ii.github.io/project-weather-app/)
 
-<h3 align="center">I'm Looking For Collaborations or Employement ⬇️</h3>
+<h3 align="center">I'm Looking For Collaborations or Employment ⬇️</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
