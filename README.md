@@ -19,7 +19,7 @@
   - [**E-Commerce Full Stack Website**](https://sen-extravaganza-react.onrender.com/)
 
 <br>
-- ✍🏽 I’m currently learning **React**, **Javascript**, **HTML/CSS**, **Express**, **React**, **PostgresSQL**
+- ✍🏽 I’m currently learning PERN(PostgresSQL, Express, React, Node.js), Javascript, HTML/CSS 
 
 - 👨‍💻 All of my projects are available at [**Here**](https://github.com/Sarai-ii?tab=repositories)
 
