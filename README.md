@@ -26,7 +26,7 @@
 - Weather Site ("My first interactive website with API") [**Weather Site**](https://sarai-ii.github.io/project-weather-app/)
 
 - Sen Retail Store ("My first fullstack application") [**Sen Extravaganza**](https://sen-extravaganza-react.onrender.com/)
-- 
+
 <h3 align="center">I'm Looking For Collaborations or Employment ⬇️</h3>
 
 <h3 align="left">Connect with me:</h3>
