@@ -16,8 +16,8 @@
 - [**Trivia Blitz**](https://sarai-ii.github.io/trivia-blitz/)
 
   💻 **Recently Deployed**
-  [**E-Commerce Full Stack Website🍽**](https://sen-extravaganza-react.onrender.com/new-this-season)
 <br>
+  [**E-Commerce Full Stack Website🍽**](https://sen-extravaganza-react.onrender.com/new-this-season)
 
 - ✍🏽 I’m currently learning **React, Javascript, HTML/CSS**
 
