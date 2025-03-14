@@ -25,7 +25,8 @@
 
 - Weather Site ("My first interactive website with API") [**Weather Site**](https://sarai-ii.github.io/project-weather-app/)
 
-- Sen Retail Store ("My first fullstack application") [**Sen Extravaganza**](https://sen-extravaganza-react.onrender.com/)
+- Sen Retail Store ("My first fullstack application") [**Live Site**](https://sen-extravaganza-react.onrender.com/)**Front End**](https://github.com/Sarai-ii/srp-clothing-front-end)
+  [**Back End**](https://github.com/JenniferEinstein/srp-clothing-back-end)
   
 - Music Application (My Best CSS So Far) [**Tuner App**](https://github.com/Sarai-ii/lab-express-sql-seed-read)
 
