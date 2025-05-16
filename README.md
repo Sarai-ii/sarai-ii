@@ -15,21 +15,23 @@
 
    <h2>💻 Currently</h2>
    ✍🏽 Learning: PYTHON <!-- INCLUDE A LINK TO A GITHUB OR PROJECT USING PYTHON IN THE FUTURE -->
-   💻 Coding: Refactoring an old project called 
    
-   [What's Dish 🍽](https://sarai-ii.github.io/Portfolio-Project/)
+   💻 Coding: Refactoring an old project called [What's Dish 🍽](https://sarai-ii.github.io/Portfolio-Project/)
    
   <h2> 💻 My Projects (Ordered by recent deployment)</h2>
   
-Sen Retail Store (My first full-stack web app) [Live Site](https://sen-extravaganza-react.onrender.com/) [Front End](https://github.com/Sarai-ii/srp-clothing-front-end)
- [Back End](https://github.com/JenniferEinstein/srp-clothing-back-end)
+Happiness Exchange (Full stack web app using PERN) [Demo](https://www.loom.com/share/dbad274c46044f07996ef5612c546a2a?sid=fa72a8f9-533e-4199-9412-a5c7da77a82e) | [Front End](https://github.com/Sarai-ii/9.6_capstone-team-3-frontend) | [Back End Repo (Must Request Access)](https://github.com/Sarai-ii/HappinessExchange-Backend-Express-Server)
+ <br>
+Youtube Clone (Project Manager of a Restful API Project) [Github Repo](https://github.com/Sarai-ii/youtube-clone-project)
+ <br>
+Sen Retail Store (My first full-stack web app) [Live Site](https://sen-extravaganza-react.onrender.com/) | [Front End](https://github.com/Sarai-ii/srp-clothing-front-end) | [Back End](https://github.com/JenniferEinstein/srp-clothing-back-end)
 <br>
 Weather Site ("My first interactive website with API") 
  [Live Site](https://sarai-ii.github.io/project-weather-app/)
 <br>
-Music Application (Cool CSS)[Tuner App Repo](https://github.com/Sarai-ii/lab-express-sql-seed-read)
+Tuner Music Application (Cool CSS) [Github Repo](https://github.com/Sarai-ii/lab-express-sql-seed-read)
 <br>
-Trivia Blitz (Client-side routing (SPA)[Live Site](https://sarai-ii.github.io/trivia-blitz/)
+Trivia Blitz (Client-side routing (SPA) [Live Site](https://sarai-ii.github.io/trivia-blitz/)
 <br>
 [👨‍💻 All Repositories](https://github.com/Sarai-ii?tab=repositories)
 
