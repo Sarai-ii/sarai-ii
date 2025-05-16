@@ -15,7 +15,7 @@
 
    <h2>💻 Currently</h2>
    ✍🏽 Learning: PYTHON <!-- INCLUDE A LINK TO A GITHUB OR PROJECT USING PYTHON IN THE FUTURE -->
-   👩🏽‍💻 Coding: Refactoring an old project called 
+   💻 Coding: Refactoring an old project called 
    
    [What's Dish 🍽](https://sarai-ii.github.io/Portfolio-Project/)
    
