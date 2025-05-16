@@ -2,36 +2,35 @@
 <pre>
 <img align="right" src="PROFESSIONAL-BANNER.jpg" height="100%" width="100%"> 
 </pre> 
-<h3 display="Center"align="center">Hi 👋, I'm Sarai Thomas</h3>
-<h3 align="center">A creative Full-Stack Web Developer from New York City w/ a 💙 for fashion, people and the arts, with a degree in Business & Marketing. I'm petitioning to develop apps and websites that reflect my professional niche and push my capabilities as a beginner developer.</h3>
+<h3 display="Center"align="center">Hi 👋 Welcome to My Github Profile</h3>
+<h3 align="center">My name is Sarai (suh-rye) and I'm a creative, passionate, resillent business leader and Full-Stack Web Developer with a Bachelor of Science in Business & Marketing. With every step, I strive to develop apps and websites that reflect my professional niche, and push my capabilities as a beginner developer.</h3>
+   <h3 align="center"> 📍 New York City
+      <br>
+   💙 Fashion, Analytics, Politics, Traveling, Health & Wellness, and The Arts
+      <br>
+   </h3>
 <img align="right" src="https://cdn.dribbble.com/users/252024/screenshots/2967356/ladytypingloop.gif" height="250" width="250" z-index="1000"> 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Sarai-ii&theme=tokyonight-duo&hide_border=true&border_radius=4.1&short_numbers=true&date_format=j%2Fn%5B%2FY%5D&mode=weekly&background=49%2CFFCF1494%2C000000&fire=EB5454&currStreakNum=000000&currStreakLabel=9A00FB&dates=EBEBEB&sideNums=000000&hide_longest_streak=true)](https://git.io/streak-stats)
 
-   <h2>💻 Currently working on</h2>
-   - [What's Dish 🍽](https://sarai-ii.github.io/Portfolio-Project/)
-
-  <h2> 💻 Recently Deployed</h2>
-  -
-  - [**E-Commerce Full Stack Website**](https://sen-extravaganza-react.onrender.com/)
-  - [Trivia Blitz](https://sarai-ii.github.io/trivia-blitz/)
+   <h2>💻 Currently</h2>
+   ✍🏽 Learning: PYTHON <!-- INCLUDE A LINK TO A GITHUB OR PROJECT USING PYTHON IN THE FUTURE -->
+   👩🏽‍💻 Coding: Refactoring an old project called 
+   
+   [What's Dish 🍽](https://sarai-ii.github.io/Portfolio-Project/)
+   
+  <h2> 💻 My Projects (Ordered by recent deployment)</h2>
   
-
+Sen Retail Store (My first full-stack web app) [Live Site](https://sen-extravaganza-react.onrender.com/) [Front End](https://github.com/Sarai-ii/srp-clothing-front-end)
+ [Back End](https://github.com/JenniferEinstein/srp-clothing-back-end)
 <br>
-- ✍🏽 I’m currently learning: PYTHON 
-<!-- INCLUDE A LINK TO A GITHUB OR PROJECT USING PYTHON IN THE FUTURE -->
 Weather Site ("My first interactive website with API") 
-[Live Site](https://sarai-ii.github.io/project-weather-app/)
+ [Live Site](https://sarai-ii.github.io/project-weather-app/)
 <br>
-Sen Retail Store ("My first fullstack application") 
+Music Application (Cool CSS)[Tuner App Repo](https://github.com/Sarai-ii/lab-express-sql-seed-read)
 <br>
-[Live Site](https://sen-extravaganza-react.onrender.com/)
+Trivia Blitz (Client-side routing (SPA)[Live Site](https://sarai-ii.github.io/trivia-blitz/)
 <br>
-[Front End](https://github.com/Sarai-ii/srp-clothing-front-end)
-<br>
-[!Back End](https://github.com/JenniferEinstein/srp-clothing-back-end)
-<br>
-[Music Application (My Best CSS So Far)](https://github.com/Sarai-ii/lab-express-sql-seed-read)
 [👨‍💻 All Repositories](https://github.com/Sarai-ii?tab=repositories)
 
 
